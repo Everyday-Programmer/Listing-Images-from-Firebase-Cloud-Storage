@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56325874049",
+    "project_id": "image-listing-5e4d8",
+    "storage_bucket": "image-listing-5e4d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56325874049:android:5bf0ea18b94f2e7d038880",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudimagelisting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA6ordh_IUXwaZVaq8zhcbq9O27-nfmDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
